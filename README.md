@@ -7,7 +7,7 @@
 - [Certificates](#certificates)
 
 
-## About me
+## About Me
 
 
 A skilled and dedicated SQA engineer with 3+ years of experience in the field of software quality assurance.

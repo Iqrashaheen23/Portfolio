@@ -10,7 +10,7 @@
 ## About Me
 
 
-A skilled and dedicated SQA engineer with 3+ years of experience in the field of software quality assurance.
+A skilled and dedicated SQA engineer with 4+ years of experience in the field of software quality assurance.
 Experienced in writing and executing Test cases, Bug tracking and reporting, providing consistent and clear report in verbal and written communication for developers, product manager and other team members. Ability to work closely with developers and product owners to ensure features and bug fixes.
 
 My objective is to excel in a challenging and innovative QA environment and aim to exercise my full potential and to develop my technical skills and experience and be up-to-date.
